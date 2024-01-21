@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sanmika73042" target="blank"><img src="https://img.shields.io/twitter/follow/@sanmika73042?logo=twitter&style=for-the-badge" alt="@sanmika73042" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, AI and Data Science**
+- 🌱 I’m currently learning **AI and Data Science**
 
 - 💬 Ask me about **Python, JavaScript, NodeJS, React, Django, FastAPI, Flask ,DSA and more!**
 
